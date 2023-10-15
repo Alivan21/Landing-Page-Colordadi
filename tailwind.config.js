@@ -7,6 +7,7 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
+        hero: "url(/assets/img/bg-primary.svg)",
         "card-1": "url(/assets/img/bg-card-1.png)",
         "card-2": "url(/assets/img/bg-card-2.png)",
         "card-3": "url(/assets/img/bg-card-3.png)",
